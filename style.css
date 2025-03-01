@@ -116,7 +116,7 @@
   .hero {
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/large-ai-generated-close-up-of-plate-of-food-on-table.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('large-ai-generated-close-up-of-plate-of-food-on-table.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
